@@ -27,7 +27,6 @@ def favorite(request, album_id):
         return render(request, 'music/detail.html', {'album': album})
 
 
-test
-
+#Bjöggi er flottur strákur
 
 
