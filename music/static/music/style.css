@@ -1,3 +1,13 @@
 body {
-    background: white url("images/paperBG.jpg");
+    background: white url("images/background_paper.png") no-repeat center center fixed; ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand{
+    font-family: 'Satisfy', cursive;
 }
